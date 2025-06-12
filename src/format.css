@@ -1,0 +1,9 @@
+:root {
+    --text-color: #333; /* Default for light mode */
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text-color: #fff; /* White text for dark mode */
+    }
+  }

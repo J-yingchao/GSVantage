@@ -104,9 +104,10 @@ This pipeline supports generalized analysis across any U.S. city with appropriat
 
 **Update Patterns by City and Socioeconomic Variables**
 
-![Update Patterns by City](src/data/four_cities_update_patterns.png)
-
-![Update Patterns by Socioeconomic Variables](src/data/heatmap_main_correlations.png)
+<div style="display: flex; gap: 16px;">
+  <img src="src/data/four_cities_update_patterns.png" alt="Update Patterns by City" width="48%">
+  <img src="src/data/heatmap_main_correlations.png" alt="Update Patterns by Socioeconomic Variables" width="48%">
+</div>
 
 ---
 

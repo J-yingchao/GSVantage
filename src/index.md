@@ -44,8 +44,6 @@
 <div class="hero">
   <h1>GSVantage</h1>
   <h2>Accessing the Visibility Gap in Google Street View’s Urban Digital Landscape</h2>
-  <h3>Group members: Zeyu Wang, Yingchao Jian</h3>
-  <h5>We acknowlegde the advice given by Dr. Don Mackenzie, Dr. Jeffrey Heer, Dr. Jon E. Froehlich</h5>
 </div>
 
 <div style="text-align: center; margin-top: -1rem;">
